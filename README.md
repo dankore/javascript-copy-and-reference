@@ -26,7 +26,7 @@ person = {
   }
   
   //Make a copy
-  const copyOfPersonObject = Object.assing({}, person);  
+  const copyOfPersonObject = Object.assign({}, person);  
   ```
   There are other ways to copy an object. [3 Ways to clone objects in Javascript by Farzad YZ.](https://medium.com/@Farzad_YZ/3-ways-to-clone-objects-in-javascript-f752d148054d)
   
